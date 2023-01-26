@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/decom/.nuget/packages/": {}
+    "C:\\Users\\merc-\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/decom/Área de Trabalho/Bootcamp diamantina/bootcamp-diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+      "projectUniqueName": "C:\\Users\\merc-\\OneDrive\\Área de Trabalho\\Bootcamp ION\\bootcamp-diamantina\\Tarefas\\src\\Tarefas.Web\\Tarefas.Web.csproj",
       "projectName": "Tarefas.Web",
-      "projectPath": "/home/decom/Área de Trabalho/Bootcamp diamantina/bootcamp-diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
-      "packagesPath": "/home/decom/.nuget/packages/",
-      "outputPath": "/home/decom/Área de Trabalho/Bootcamp diamantina/bootcamp-diamantina/Tarefas/src/Tarefas.Web/obj/",
+      "projectPath": "C:\\Users\\merc-\\OneDrive\\Área de Trabalho\\Bootcamp ION\\bootcamp-diamantina\\Tarefas\\src\\Tarefas.Web\\Tarefas.Web.csproj",
+      "packagesPath": "C:\\Users\\merc-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\merc-\\OneDrive\\Área de Trabalho\\Bootcamp ION\\bootcamp-diamantina\\Tarefas\\src\\Tarefas.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/decom/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\merc-\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/decom/.dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

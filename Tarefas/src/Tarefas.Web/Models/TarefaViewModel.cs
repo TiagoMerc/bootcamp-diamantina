@@ -1,12 +1,18 @@
 using System.ComponentModel;
 
-namespace Tarefas.Web.Models;
-
-public class TarefaViewModel
+namespace Tarefas.Web.Models
 {
-    [DisplayName("Título")]
-    public string Titulo {get; set;}
+    public class TarefaViewModel
+    {
 
-    [DisplayName("Descrição")]
-    public string Descricao {get; set;}
+        [DisplayName("Id")]
+        public int Id{get; set;}
+
+        [DisplayName("Título")]
+        public string Titulo {get;set;}
+        
+        [DisplayName("Descrição")]
+        public string Descricao {get;set;}
+    }
+
 }

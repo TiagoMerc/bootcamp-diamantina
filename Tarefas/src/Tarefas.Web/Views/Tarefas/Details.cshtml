@@ -1,0 +1,16 @@
+@model Tarefas.Web.Models.TarefaViewModel
+
+
+<form asp-action = "Create">
+    <div>
+    @Html.LabelFor(model => model.Titulo, new {@class = "form-label"})
+    @Html.TextBoxFor(model => model.Titulo, new {@class = "form-control", @readonly = "true"})
+    </div>
+    <div>
+
+    @Html.LabelFor(model => model.Descricao, new {@class = "form-label"})
+    @Html.TextBoxFor(model => model.Descricao, new {@class = "form-control", @readonly = "true"})
+    </div>
+</form>
+
+<a asp-action="Index" asp-controller="Tarefas" > Voltar</a>
